@@ -1,0 +1,1 @@
+CREATE INDEX LookUpBillItems ON BillEntry(menuItemID,quantity);
